@@ -1,0 +1,18 @@
+body {
+  background-color: whitesmoke; }
+
+div {
+  display: inline-block;
+  border: 3px dotted #ff4646; }
+
+.up {
+  width: 600px;
+  height: 600px;
+  background-color: lightgrey; }
+
+.down {
+  width: 600px;
+  height: 300px;
+  background-color: lightgrey; }
+
+/*# sourceMappingURL=styles.css.map */

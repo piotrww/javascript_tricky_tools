@@ -1,0 +1,18 @@
+body {
+  background-color: yellowgreen;
+ }
+
+.wrapVisible {
+  width: 760px;
+  border: 2px dotted red;
+  overflow: hidden; }
+  .wrapVisible .wrapper {
+    width: 1950px;
+    border: 3px solid orange; }
+    .wrapVisible .wrapper .my4Slider {
+      width: 250px;
+      border: 3px double blue;
+      float: left;
+      display: inline-block; }
+
+/*# sourceMappingURL=styles.css.map */
